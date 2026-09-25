@@ -48,3 +48,7 @@ Thumbs.db
 *.key
 secrets.json
 credentials.json
+
+# Staging directories (cross-repo build artifacts)
+.stage-*/
+.staging-*/
